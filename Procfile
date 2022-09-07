@@ -1,0 +1,1 @@
+web: gunicorn DjangoGemink_Project.wsgi --log-file -
